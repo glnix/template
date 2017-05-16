@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GitClean</string>
+    <string name="umorili_api_base_url">http://www.umori.li/</string>
+</resources>
